@@ -4,9 +4,10 @@ This page contains links to all projects (or Practice Code) done by me till date
 | Project                                          | Link                                                     | Language      |
 |--------------------------------------------------|----------------------------------------------------------|---------------|
 | **AuthAPI** Express Framework and MongoDB        | [Link](https://github.com/AkshitKrNagpal/AuthAPI)        | NodeJS        |
-| **QwikCheck** PHP based Rest-API                 | [Link](https://github.com/AkshitKrNagpal/QwikCheck-API)  | PHP           |
-| **QwikCheck** Android App                        | [Link](https://github.com/AkshitKrNagpal/QwikCheck-APP)  | Android (Java)|
+| **QwikCheck API** PHP based Rest-API             | [Link](https://github.com/AkshitKrNagpal/QwikCheck-API)  | PHP           |
+| **QwikCheck APP** Android App                    | [Link](https://github.com/AkshitKrNagpal/QwikCheck-APP)  | Android (Java)|
 | **PhotoSync** Android Practice                   | [Link](https://github.com/AkshitKrNagpal/PhotoSync)      | Android (Java)|
+| **Chess AI** using Min-Max Algorithm             | [Link](https://github.com/AkshitKrNagpal/chess-ai)       | NodeJS        |
 | **Image Morphing** in MATLAB                     | [Link](https://github.com/AkshitKrNagpal/Image-Morphing) | MATLAB        |
 | **Sudoku Solver** using Backtracking             | [Link](https://github.com/AkshitKrNagpal/SudokuSolver)   | C++           |
 | **KMP Search Alogrithm**                         | [Link](https://github.com/AkshitKrNagpal/KMP-algorithm)  | C++           |
