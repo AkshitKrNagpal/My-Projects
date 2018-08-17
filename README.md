@@ -10,6 +10,7 @@ This page contains links to all projects (or Practice Code) done by me till date
 | **Chess AI** using Min-Max Algorithm             | [Link](https://github.com/AkshitKrNagpal/chess-ai)       | NodeJS        |
 | **Image Morphing** in MATLAB                     | [Link](https://github.com/AkshitKrNagpal/Image-Morphing) | MATLAB        |
 | **Sudoku Solver** using Backtracking             | [Link](https://github.com/AkshitKrNagpal/SudokuSolver)   | C++           |
+| **Mancala Game** implementation - AI vs Player   | [Link](https://github.com/AkshitKrNagpal/mancala-cpp)    | C++           |
 | **Sockets Implementation**                       | [Link](https://github.com/AkshitKrNagpal/sockets-cpp)    | C++           |
 | **KMP Search Alogrithm**                         | [Link](https://github.com/AkshitKrNagpal/KMP-algorithm)  | C++           |
 | **Lucy-Richardson** deblurring algorithm         | [Link](https://github.com/AkshitKrNagpal/LucyRichardson) | Java          |
